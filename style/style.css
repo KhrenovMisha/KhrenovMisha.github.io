@@ -108,7 +108,7 @@ main {
     }
 }
 
-@media (min-width: 992px) {
+@media (min-width: 700px) {
     .img-style1 {
         width: 100%;
         min-width: 400px;
@@ -116,7 +116,7 @@ main {
 
     .img-style2 {
         width: 100%;
-        min-width: 400px;
+        min-width: 350px;
         order: 1;
     }
 
