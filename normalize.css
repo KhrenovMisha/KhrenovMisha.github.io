@@ -350,4 +350,24 @@ template {
 
 ul {
     list-style: none;
+    margin: 0;
+    padding: 0;
+}
+
+figure {
+    margin: 0;
+    padding: 0;
+}
+
+a {
+    text-decoration: none;
+}
+input{
+    background: none;
+    border: none;
+    outline: none;
+}
+
+* {
+    box-sizing: border-box;
 }
