@@ -294,7 +294,7 @@ body {
 }
 
 .main-navigation {
-    display: block;
+    display: inline-block;
     position: relative;
     top: -219px;
     left: 26px;
